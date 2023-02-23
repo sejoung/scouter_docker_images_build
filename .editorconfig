@@ -1,0 +1,7 @@
+[*.{kt, kts}]
+indent_size = 4
+max_line_length = 240
+ij_kotlin_allow_trailing_comma = false
+ij_kotlin_allow_trailing_comma_on_call_site = false
+ij_kotlin_packages_to_use_import_on_demand = **
+ktlint_standard_annotation-spacing = disabled
